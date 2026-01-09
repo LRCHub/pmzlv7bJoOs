@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "私雨",
+  "base_artist": "yrmare",
+  "createdAt": "2026-01-09T09:38:34.983892Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私雨 (feat. Tokaya)",
+      "artist": "yrmare",
+      "has_synced": false,
+      "path": "select/pl_01_私雨_(feat._Tokaya)_yrmare.txt"
+    }
+  ]
+}
